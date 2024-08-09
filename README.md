@@ -1,7 +1,8 @@
 # Welcome to Reality!
 
 This repo is used for certain distributions of Zero Density.
-* [Unreal 5.5 Beta build for **Lino**](https://github.com/zerodensity-dist/Lino) 
+
+* [Unreal 5.5 Beta build for **Lino**](https://github.com/zerodensity-dist/Lino) : Note that you have to be an Epic Games licensee for [Unreal Engine](https://github.com/EpicGames/UnrealEngine) to be able to see this repository.
 
 <!--
 **zerodensity-dist/zerodensity-dist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
