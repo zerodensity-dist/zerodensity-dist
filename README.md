@@ -1,7 +1,9 @@
 # Welcome to Reality!
 
-This repository is used for certain distributions of [Zero Density](https://www.zerodensity.io/)
+This repository is used for Reality 5 distributions of [Zero Density](https://www.zerodensity.io/) based on Unreal Engine 5.
 
-* [Reality v5.5](https://github.com/zerodensity-dist/Releases/releases/tag/reality-v5.5)
-* [Reality v5.4.SP3](https://github.com/zerodensity-dist/Releases/releases/tag/reality-v5.4.sp3)
-* [Lino v5.5](https://github.com/zerodensity-dist/Releases/releases/tag/lino-v5.5)
+Open Studio Licensees (for details: https://resources.zerodensity.io/open-studio-license-program-from-zero-density), should download the distribution files from here.
+
+Reality 5.6 links:
+* Download: https://github.com/zerodensity-dist/Releases/releases/tag/reality-v5.6
+* Documentation: https://docs.zerodensity.io/reality-5.6/
